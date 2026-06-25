@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+
+# Large generated data
+embeddings.joblib
+
+# Course data
+videos/
+audios/
+jsons/
+
+# Generated files
+prompt.txt
+response.txt
+output.json
+result.json
+
+# Environment
+.env
+
+# VS Code settings
+.vscode/
